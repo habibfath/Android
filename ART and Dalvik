@@ -1,0 +1,6 @@
+java.lang.NullPointerException: Attempt to write to field 'int
+android.accessibilityservice.AccessibilityServiceInfo.flags' on a null object
+reference
+
+java.lang.NullPointerException: Attempt to invoke virtual method
+'java.lang.String java.lang.Object.toString()' on a null object reference
